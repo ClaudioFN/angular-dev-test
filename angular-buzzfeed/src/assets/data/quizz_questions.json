@@ -1,0 +1,57 @@
+{
+  "title":"´Would you be hero or a villain?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Which super power would you choose?",
+      "options":[
+        {"id": 1, "name":"Laser Bean", "alias":"A"},
+        {"id": 2, "name":"Fly", "alias":"B"},
+        {"id": 3, "name":"Blow up Things", "alias":"A"},
+        {"id": 4, "name":"Cure Wounds", "alias":"B"},
+        {"id": 5, "name":"Set Fire Using Your Hands", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Who would you save first?",
+      "options":[
+        {"id": 1, "name":"Children", "alias":"A"},
+        {"id": 2, "name":"Elderly", "alias":"A"},
+        {"id": 3, "name":"I wouldn't know how to choose", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "What's your greatest concern fighting another super being?",
+      "options":[
+        {"id": 1, "name":"Don't destroy the buildings", "alias":"B"},
+        {"id": 2, "name":"Punch enemy's face", "alias":"A"},
+        {"id": 3, "name":"Don't get my costume dirty", "alias":"A"},
+        {"id": 4, "name":"Don't let anyone get hurt", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "What's your objective?",
+      "options":[
+        {"id": 1, "name":"Get rich with my super powers", "alias":"A"},
+        {"id": 2, "name":"Save the city", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "What would your nickname be?",
+      "options":[
+        {"id": 1, "name":"Ghost", "alias":"A"},
+        {"id": 2, "name":"Legion", "alias":"B"},
+        {"id": 3, "name":"Super Gentleman", "alias":"A"},
+        {"id": 3, "name":"Anon", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "You would most likely be a super villain!",
+    "B": "You would most likely be a super hero!"
+  }
+}
