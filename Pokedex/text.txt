@@ -1,0 +1,2 @@
+npm install -g http-server = biblioteca extra para desenvolvimento
+http-server ./ = começar servidor local
